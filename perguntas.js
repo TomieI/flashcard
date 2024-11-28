@@ -22,3 +22,15 @@ criaCartao(
     'CPara que serve a tag <a>?',
     'Criar links'
 )
+
+criaCartao(
+    'Tema HTML',
+    'Para que serve a tag <a>?',
+    'Criar links'
+)
+
+criaCartao(
+    'Tema HTML',
+    'O que é uma tag <div>?',
+    'Um contêiner de bloco para agrupar elementos'
+)
