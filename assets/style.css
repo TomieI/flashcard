@@ -2,6 +2,7 @@
     --text-color: #444545;
     --card-front-color: #FFBD00;
     --card-back-color: #EDFF7A;
+    --footer-color: #C5E0D8
 }
 
 body {
@@ -82,7 +83,7 @@ body {
 }
 
 footer {
-    background-color: black;
+    background-color: --footer-color ;
     color: white;
     position: fixed;
     bottom: 0;
