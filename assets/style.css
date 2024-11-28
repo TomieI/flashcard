@@ -83,7 +83,7 @@ body {
 }
 
 footer {
-    background-color: --footer-color ;
+    background-color: --card-back-color ;
     color: --text-color;
     position: fixed;
     bottom: 0;
